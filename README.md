@@ -1,7 +1,13 @@
-# Git、Github及makedown语法学习记录
+# Git、Github及markdown语法学习记录
+## markdown
+### 一.标题
+  #一级标题
+  ##二级标题
+  ###三级标题
+  ...以此类推
+### 二.文本
+  *斜体文本*（* *）
+  _斜体文本_(_ _)
+  **粗体文本**（* *）
 ## Git
 ## Github
-
-## makedown
-### 闲谈
-   首先
